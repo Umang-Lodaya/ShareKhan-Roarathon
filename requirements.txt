@@ -11,13 +11,9 @@ datetime
 yfinance
 plotly
 streamlit_folium
-threading
 time
 urllib
 os
-collections
-pathlib
-typing
 streamlit_player
 json
 av
