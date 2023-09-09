@@ -11,15 +11,12 @@ datetime
 yfinance
 plotly
 streamlit_folium
-os
 streamlit_player
-json
 av
 numpy
 pydub
 twilio
 opencv-python
-time
 PIL
 io
 streamlit_webrtc
